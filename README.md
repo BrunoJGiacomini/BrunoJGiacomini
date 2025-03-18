@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">💻Techs</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Studying at the moment</h2>
+<h2 align="left">📚Studying at the moment</h2>
 
 ###
 
@@ -53,3 +53,4 @@
 </div>
 
 ###
+
