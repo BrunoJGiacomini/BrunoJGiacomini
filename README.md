@@ -1,6 +1,6 @@
 <h2 align="left">About me</h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=01B8FF&width=435&lines=Multiplatform+Software+Development+Student;Estudo+na+Fatec!;Bem-Vindo+ao+meu+perfil+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=01B8FF&width=435&lines=Hi%2C+Bruno+Giacomini+here!;Welcome+to+my+profile+%3A);Multiplatform+Software+Development+Student;Study+at+Fatec!;I'm+from+S%C3%A3o+Paulo%2C+Brazil!" alt="Typing SVG" /></a>
 
 ###
 
