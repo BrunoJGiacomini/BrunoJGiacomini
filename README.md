@@ -1,6 +1,6 @@
 <h2 align="left">About me</h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=01B8FF&width=435&lines=Hi%2C+Bruno+Giacomini+here!;Welcome+to+my+profile+%3A);Multiplatform+Software+Development+Student;Study+at+Fatec!;I'm+from+S%C3%A3o+Paulo%2C+Brazil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=01B8FF&width=435&lines=Hi%2C+Bruno+Giacomini+here!;Welcome+to+my+profile+%3A);Multiplatform+Software+Development+Student;Study+at+FATEC!;I'm+from+S%C3%A3o+Paulo%2C+Brazil!" alt="Typing SVG" /></a>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
